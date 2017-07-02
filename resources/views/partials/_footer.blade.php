@@ -1,0 +1,1 @@
+<p class="text-center">Omar El-Dalil &copy; {{date('Y')}} - All Rights Reserved </p>
